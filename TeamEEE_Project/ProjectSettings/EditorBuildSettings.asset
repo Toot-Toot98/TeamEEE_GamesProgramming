@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestMovement.unity
     guid: 2aff1108ee60a7541b1df9a416359810
+  - enabled: 1
+    path: Assets/Scenes/DeathSceen.unity
+    guid: a7ab6a8d962c7374b9299c9ec3ca5929
   m_configObjects: {}
